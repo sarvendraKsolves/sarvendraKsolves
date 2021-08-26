@@ -15,7 +15,7 @@ Know me breifly:
 - 💬 Ask me about anything
 - 📫 How to reach me: sarvendra.singh@ksolves.com
 - 😄 Other than Coding: Travelling and cooking
-- ⚡ Fun fact: I love to make friends.
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sarvendraKsolves)
