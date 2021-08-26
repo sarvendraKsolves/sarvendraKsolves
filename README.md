@@ -18,7 +18,6 @@ Know me breifly:
 - ⚡ Fun fact: I love to make friends.
 
 
-![LinkedIn Profile](https://www.linkedin.com/in/singhsaahab07/?trk=profile-badge&originalSubdomain=in)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sarvendraKsolves)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="singhsaahab07"><a class="LI-simple-link" href='https://in.linkedin.com/in/singhsaahab07?trk=profile-badge'>Connect with me on LinkedIn</a></div>
